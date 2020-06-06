@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "harmsharp.exe",0,True
